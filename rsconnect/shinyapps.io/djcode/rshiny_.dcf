@@ -1,0 +1,10 @@
+name: rshiny_
+title:
+username: djcode
+account: djcode
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13085322
+bundleId: 9251825
+url: https://djcode.shinyapps.io/rshiny_/
+version: 1
