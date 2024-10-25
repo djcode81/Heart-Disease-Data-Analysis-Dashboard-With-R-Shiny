@@ -14,4 +14,4 @@ You can view the live dashboard deployed on **shinyapps.io** here:
 ## How to Run Locally:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/djcode81/Heart-Disease-Data-Analysis-Dashboard-With-R-Shiny/
+   git clone https://github.com/djcode81/Heart-Disease-Data-Analysis-Dashboard-With-R-Shiny
